@@ -11,5 +11,6 @@ Projects:
 
 ![webpage_chatbot (1)](https://github.com/AashiDutt/RAG/assets/25379502/81aa0401-93ae-4664-8535-70950408adce)
 
-<img src="https://github.com/AashiDutt/RAG/assets/25379502/81aa0401-93ae-4664-8535-70950408adce" alt="webpage_chatbot (1)" width="500" height="400">
+
+
 
