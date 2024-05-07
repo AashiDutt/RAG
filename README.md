@@ -8,5 +8,8 @@ Projects:
 2. [Content-based Q & A chatbot using RAG and LLAMA2](https://github.com/AashiDutt/RAG/blob/main/Content%20based%20Q%20%26%20A%20chatbot%20using%20RAG%20%26LLAMA2.ipynb) running locally - Get content from any website, parse it and use it for your chatbot powered by llama2.
 3. [Chat with a webpage using local llama3 and RAG](https://github.com/AashiDutt/RAG/blob/main/%5BPROJECT%5DRAG_with_llama3_webpage_chatbot.py) - A web-based chat application that helps to chat with any webpage using local llama3 and RAG. Developed using Streamlit, ollama and langchain_community.
 
-![webpage_chatbot](https://github.com/AashiDutt/RAG/assets/25379502/4827462c-4183-4d18-b517-70cb7791820b)
+
+![webpage_chatbot (1)](https://github.com/AashiDutt/RAG/assets/25379502/81aa0401-93ae-4664-8535-70950408adce)
+
+<img src="https://github.com/AashiDutt/RAG/assets/25379502/81aa0401-93ae-4664-8535-70950408adce" alt="webpage_chatbot (1)" width="500" height="400">
 
