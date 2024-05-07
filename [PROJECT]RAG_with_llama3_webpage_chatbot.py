@@ -1,4 +1,5 @@
-# to run this code - in terminal run (streamlit run RAG_with_llama3_webpage_chatbot.py )
+# Code for this project is inspired from (https://twitter.com/Saboo_Shubham_/status/1785858499672670472?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1785858499672670472%7Ctwgr%5E5da60a5b68b8bc90341ad8c9f510e38a9fb13e88%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fanalyticsindiamag.com%2F10-wild-use-cases-for-llama-3%2F)
+# To run this code - in terminal run (streamlit run RAG_with_llama3_webpage_chatbot.py )
 import streamlit as st
 import ollama
 from langchain.text_splitter import RecursiveCharacterTextSplitter
