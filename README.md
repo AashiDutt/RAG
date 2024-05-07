@@ -6,3 +6,4 @@ Projects:
 
 1. [RAG from Scratch](RAG_From_scratch.ipynb) - Leisure activity recommendation bot built using RAG from Scratch with ollama (LLAMA2) running locally.
 2. [Content-based Q & A chatbot using RAG and LLAMA2](https://github.com/AashiDutt/RAG/blob/main/Content%20based%20Q%20%26%20A%20chatbot%20using%20RAG%20%26LLAMA2.ipynb) running locally - Get content from any website, parse it and use it for your chatbot powered by llama2.
+3. [Chat with a webpage using local llama3 and RAG](https://github.com/AashiDutt/RAG/blob/main/%5BPROJECT%5DRAG_with_llama3_webpage_chatbot.py) - A web-based chat application that helps to chat with any webpage using local llama3 and RAG. Developed using Streamlit, ollama and langchain_community. 
